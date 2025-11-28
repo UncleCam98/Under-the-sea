@@ -4,3 +4,6 @@
 [submodule "hand-recognition"]
 	path = hand-recognition
 	url = https://github.com/UncleCam98/hand-recognition
+[submodule "fish"]
+	path = fish
+	url = https://github.com/UncleCam98/fish
