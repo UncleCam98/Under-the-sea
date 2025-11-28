@@ -1,3 +1,6 @@
 [submodule "a-star"]
 	path = a-star
 	url = https://github.com/UncleCam98/a-star
+[submodule "hand-recognition"]
+	path = hand-recognition
+	url = https://github.com/UncleCam98/hand-recognition
