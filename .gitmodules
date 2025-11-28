@@ -7,3 +7,6 @@
 [submodule "fish"]
 	path = fish
 	url = https://github.com/UncleCam98/fish
+[submodule "ros2-communication"]
+	path = ros2-communication
+	url = https://github.com/UncleCam98/ros2-communication
