@@ -2,9 +2,7 @@
 
 ## Overview
 
-**Under the Sea** is an embedded intelligent systems project developed as part of the course **Design of Embedded and Intelligent Systems** at Halmstad University.
-
-The project combines computer vision, path planning, robot communication, and embedded control in a shared multi-robot environment. The system uses an overhead camera to detect hand gestures and robot positions. These inputs are then used to control two robot platforms:
+This project combines computer vision, path planning, robot communication, and embedded control in a shared multi-robot environment. The system uses an overhead camera to detect hand gestures and robot positions. These inputs are then used to control two robot platforms:
 
 - A helium-balloon fish robot
 - A ground-based crab robot
